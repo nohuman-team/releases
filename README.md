@@ -12,8 +12,9 @@ Download the latest version from the **Releases** tab:
 The app is free for 6 months. Claim a key at https://www.nohuman.team/claim?campaign=FREE
 and paste it into the setup wizard together with the same email.
 
-Requirements: the `claude` and/or `opencode` CLI on your PATH (the app offers to
-install them on first run), and a Claude or ChatGPT subscription — or an API key.
+Requirements: a Claude or ChatGPT subscription, or an API key. The two AI engines
+the workers run on (Claude Code and opencode) are installed by the app itself on
+first launch — no terminal, no Node.js.
 
 macOS builds are currently unsigned: on first open, right-click the app → Open, or
 allow it under System Settings → Privacy & Security → "Open Anyway".
