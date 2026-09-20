@@ -9,7 +9,7 @@ releases**; the source code is not published here.
 |---|---|
 | macOS, Apple silicon (M1 and later) | [nohuman-team-3.2.2-mac-arm64.dmg](https://github.com/nohuman-team/releases/releases/download/v3.2.2/nohuman-team-3.2.2-mac-arm64.dmg) |
 | macOS, Intel | [nohuman-team-3.2.2-mac-x64.dmg](https://github.com/nohuman-team/releases/releases/download/v3.2.2/nohuman-team-3.2.2-mac-x64.dmg) |
-| Windows 10 and 11 | [nohuman-team-3.2.0-win-x64.exe](https://github.com/nohuman-team/releases/releases/download/v3.2.2/nohuman-team-3.2.0-win-x64.exe) — version 3.2.0; the 3.2.2 build for this system is on its way |
+| Windows 10 and 11 | [nohuman-team-3.2.2-win-x64.exe](https://github.com/nohuman-team/releases/releases/download/v3.2.2/nohuman-team-3.2.2-win-x64.exe) |
 
 All versions and release notes: [Releases](https://github.com/nohuman-team/releases/releases).
 Not sure which Mac you have? Apple menu → About This Mac: "Apple M…" is Apple silicon, "Intel" is Intel.
