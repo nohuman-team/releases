@@ -3,12 +3,12 @@
 Installers for the noHuman Team desktop app. This repository holds **only built
 releases**; the source code is not published here.
 
-## Download: version 3.3.3
+## Download: version 3.3.4
 
 | System | Download |
 |---|---|
-| macOS, Apple silicon (M1 and later) | [nohuman-team-3.3.3-mac-arm64.dmg](https://github.com/nohuman-team/releases/releases/download/v3.3.3/nohuman-team-3.3.3-mac-arm64.dmg) |
-| macOS, Intel | [nohuman-team-3.3.3-mac-x64.dmg](https://github.com/nohuman-team/releases/releases/download/v3.3.3/nohuman-team-3.3.3-mac-x64.dmg) |
+| macOS, Apple silicon (M1 and later) | [nohuman-team-3.3.4-mac-arm64.dmg](https://github.com/nohuman-team/releases/releases/download/v3.3.4/nohuman-team-3.3.4-mac-arm64.dmg) |
+| macOS, Intel | [nohuman-team-3.3.4-mac-x64.dmg](https://github.com/nohuman-team/releases/releases/download/v3.3.4/nohuman-team-3.3.4-mac-x64.dmg) |
 
 All versions and release notes: [Releases](https://github.com/nohuman-team/releases/releases).
 Not sure which Mac you have? Apple menu → About This Mac: "Apple M…" is Apple silicon, "Intel" is Intel.
