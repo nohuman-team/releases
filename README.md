@@ -9,11 +9,14 @@ releases**; the source code is not published here.
 |---|---|
 | macOS, Apple silicon (M1 and later) | [nohuman-team-4.1.5-mac-arm64.dmg](https://github.com/nohuman-team/releases/releases/download/v4.1.5/nohuman-team-4.1.5-mac-arm64.dmg) |
 | macOS, Intel | [nohuman-team-4.1.5-mac-x64.dmg](https://github.com/nohuman-team/releases/releases/download/v4.1.5/nohuman-team-4.1.5-mac-x64.dmg) |
+| Windows 10 and 11 | [nohuman-team-4.1.5-win-x64.exe](https://github.com/nohuman-team/releases/releases/download/v4.1.5/nohuman-team-4.1.5-win-x64.exe) |
 
 All versions and release notes: [Releases](https://github.com/nohuman-team/releases/releases).
 Not sure which Mac you have? Apple menu → About This Mac: "Apple M…" is Apple silicon, "Intel" is Intel.
 
 **macOS:** open the `.dmg`, drag noHuman Team into Applications and open it from there. The app is signed and checked by Apple, and from 3.2.3 on it updates itself.
+
+**Windows:** run the installer. It is not yet code-signed, so SmartScreen shows a warning: click More info → Run anyway. The app updates itself.
 
 Limited test access is available while the campaign is open: claim a free key at
 https://www.nohuman.team/test-access and paste it into the setup wizard together
