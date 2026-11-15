@@ -3,13 +3,13 @@
 Installers for the noHuman Team desktop app. This repository holds **only built
 releases**; the source code is not published here.
 
-## Download: version 5.3.0
+## Download: version 5.4.0
 
 | System | Download |
 |---|---|
-| macOS, Apple silicon (M1 and later) | [nohuman-team-5.3.0-mac-arm64.dmg](https://github.com/nohuman-team/releases/releases/download/v5.3.0/nohuman-team-5.3.0-mac-arm64.dmg) |
-| macOS, Intel | [nohuman-team-5.3.0-mac-x64.dmg](https://github.com/nohuman-team/releases/releases/download/v5.3.0/nohuman-team-5.3.0-mac-x64.dmg) |
-| Windows 10 and 11 | [nohuman-team-5.3.0-win-x64.exe](https://github.com/nohuman-team/releases/releases/download/v5.3.0/nohuman-team-5.3.0-win-x64.exe) |
+| macOS, Apple silicon (M1 and later) | [nohuman-team-5.4.0-mac-arm64.dmg](https://github.com/nohuman-team/releases/releases/download/v5.4.0/nohuman-team-5.4.0-mac-arm64.dmg) |
+| macOS, Intel | [nohuman-team-5.4.0-mac-x64.dmg](https://github.com/nohuman-team/releases/releases/download/v5.4.0/nohuman-team-5.4.0-mac-x64.dmg) |
+| Windows 10 and 11 | [nohuman-team-5.4.0-win-x64.exe](https://github.com/nohuman-team/releases/releases/download/v5.4.0/nohuman-team-5.4.0-win-x64.exe) |
 
 All versions and release notes: [Releases](https://github.com/nohuman-team/releases/releases).
 Not sure which Mac you have? Apple menu → About This Mac: "Apple M…" is Apple silicon, "Intel" is Intel.
